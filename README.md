@@ -5,6 +5,3 @@ threejs simple cublike
 * point light
 * orbital controls
 * raycast interaction
-
-run:
-https://brunokruse.github.io/cubelike.github.io/
